@@ -388,7 +388,7 @@ template {
   }
   @media (max-width: 992px) { 
       h2{
-          font-size: 35px!important;
+          font-size: 15px!important;
           line-height: 50px!important;
       }
       p {
